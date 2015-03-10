@@ -1,0 +1,11 @@
+canvas{
+	border:1px solid #ddd;
+	display: block;
+	box-shadow: 0px 0px 30px #000;
+	margin-top:30px;
+	background-size: cover;
+	background-position: center center;
+	width:100%;
+	background-repeat: repeat-x;
+	background-image: url('../assets/bg.gif')
+}
